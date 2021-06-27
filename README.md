@@ -1,5 +1,5 @@
 # ReadmeEDIT
-[Hello, my name is Nitish Data Science Enthusiastic ](https://www.meritglobaltraining.com/images/data1.png)
+[Hello, my name is Nitish Data Science Enthusiastic ](https://github.com/nitishya/ReadmeEDIT/blob/main/newdtaa.jpg)
 
 
 <div align="center">
