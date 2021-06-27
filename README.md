@@ -1,12 +1,12 @@
 # ReadmeEDIT
-![Hello, my name is Nitish Data Science Enthusiastic ]
+[Hello, my name is Nitish Data Science Enthusiastic ](https://www.meritglobaltraining.com/images/data1.png)
 
 
 <div align="center">
 
 
 [<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px"/>](www.linkedin.com/in/nitishyadav866)
-[<img  src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" width="35px"/>]
+<img  src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" width="35px"/>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## ⚡ My Stats 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nitishya&show_icons=true&theme=radical&line_height=27">
  
 </p>
 
